@@ -7,3 +7,6 @@ I set my focus on just the topics that are still relevant today.
 <h2>Repeating Annotations</h2>
 <h2>DateTimeApi</h2>
 <h2>Default Methods</h2>
+
+Sources:
+https://www.baeldung.com/java-8-new-features
